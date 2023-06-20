@@ -31,5 +31,3 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
 </p>
-
-![Snake animation](https://github.com/RafaRubio07/RafaRubio07/blob/output/github-contribution-grid-snake.svg)
