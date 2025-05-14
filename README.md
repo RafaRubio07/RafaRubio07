@@ -1,8 +1,7 @@
 ### Welcome! 👋
 
-- 🌱 I’m currently learning Python, C#, HTML, CSS, JS, 
+- 🌱 I’m currently learning Python, C#, HTML, CSS, JS
 - 📫 How to reach me: rafa.carvento@gmail.com or rubinvalval@gmail.com
-- 😄 Pronouns: He/Him
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaRubio07&rank_icon=github&hide_border=true&show_icons=true&theme=neon" width="400">
